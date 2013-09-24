@@ -22,7 +22,7 @@ TARGET_BOOTANIMATION_NAME := horizontal-800x480
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := streak7
-PRODUCT_NAME := full_streak7
+PRODUCT_NAME := cm_streak7
 PRODUCT_BRAND := Dell
 PRODUCT_MODEL := Streak 7
 PRODUCT_MANUFACTURER := Dell Inc.
